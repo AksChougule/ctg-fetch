@@ -3,9 +3,14 @@
     when provided with nctid of the trial provided the results are
     posted on the clinicaltrials.gov portal. """
 
+import pandas as pd
+import numpy as np
+import requests
+import datetime
+import json
 
-def _decode_event_group(coded_value, event_group)
-    """Decode arm names, example - EG000 to 'Dupilumab 300 mg qw
+def _decode_event_group(coded_value, event_group):
+    """ Decode arm names, example - EG000 to 'Dupilumab 300 mg qw
 
     Parameters
     ----------
