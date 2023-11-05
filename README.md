@@ -1,8 +1,8 @@
-========
-fetchctg 
-========
+#fetchctg 
 
-Python functions to fetch formatted safety data from the clinicaltrials.gov API.
+The clinicaltrials.gov is a wonderful resource to explore completed, ongoing and planned clinical trials. However using the APIs can be a bit tedious, especially when there is high level of heretogenity is involved in the results published on the website.
+
+In order to help with this issue., this fetch-ctg library contains helper functions to fetch formatted safety data from the clinicaltrials.gov API.
 
 
 * Free software: MIT license
