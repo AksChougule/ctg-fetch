@@ -1,4 +1,5 @@
-#fetchctg 
+# fetchctg 
+## Fetch the safety data from clinicaltrials.gov
 
 The clinicaltrials.gov is a wonderful resource to explore completed, ongoing and planned clinical trials. However using the APIs can be a bit tedious, especially when there is high level of heretogenity is involved in the results published on the website.
 
